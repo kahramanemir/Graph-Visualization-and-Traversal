@@ -49,6 +49,3 @@ python main.py
 ## 📝 License
 This project is licensed under the MIT License.
 
-## 📩 Contact
-For questions or contributions, open an issue or pull request on [GitHub](https://github.com/your-repo/graph-visualization).
-
