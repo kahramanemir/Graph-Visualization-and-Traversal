@@ -4,11 +4,11 @@
 This project visualizes a weighted undirected graph using the NetworkX library in Python. It demonstrates Dijkstra's shortest path algorithm, Depth-First Search (DFS), and Breadth-First Search (BFS) traversal.
 
 ## 🚀 Features
-✅ Graph representation with nodes and weighted edges
-✅ Visualization using Matplotlib and NetworkX
-✅ Dijkstra's shortest path calculation
-✅ DFS and BFS traversal
-✅ Edge labeling with weights
+👉 Graph representation with nodes and weighted edges  
+👉 Visualization using Matplotlib and NetworkX  
+👉 Dijkstra's shortest path calculation  
+👉 DFS and BFS traversal  
+👉 Edge labeling with weights  
 
 ## ⚡ Getting Started
 ### Prerequisites
@@ -39,14 +39,14 @@ python main.py
   - Dijkstra's shortest paths and their lengths
   - DFS and BFS traversal sequences
 
-## 📜 Code Overview
+## 📝 Code Overview
 - Defines a set of vertices (nodes) and weighted edges
 - Uses NetworkX to create and visualize the graph
 - Computes and prints shortest paths using Dijkstra's algorithm
 - Implements DFS and BFS for graph traversal
 - Displays the graph with edge weights labeled
 
-## 📄 License
+## 📝 License
 This project is licensed under the MIT License.
 
 ## 📩 Contact
